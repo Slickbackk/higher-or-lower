@@ -1,7 +1,7 @@
 import random
 
 MAX_ATTEMPTS = 10
-RANGE_MAX = 1000
+RANGE_MAX = 500
 
 print("=== Number Guessing Game ===")
 print(f"I'm thinking of a number between 1 and {RANGE_MAX}.")
